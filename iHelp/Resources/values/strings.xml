@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">ЯПомогу</string>
+    <string-array name="cities">
+        <item>Могилев</item>
+        <item>Брест</item>
+        <item>Витебск</item>
+        <item>Гомель</item>
+        <item>Гродно</item>
+        <item>Минск</item>\
+    </string-array>
+    <string-array name="categories">
+        <item>Все</item>
+        <item>Транспорт</item>
+        <item>Поход в магазин</item>
+        <item>Забота о животных</item>
+        <item>Медицинская помощь</item> 
+    </string-array>
+    <string-array name="RequestCategories">
+        <item>Транспорт</item>
+        <item>Поход в магазин</item>
+        <item>Забота о животных</item>
+        <item>Медицинская помощь</item> 
+    </string-array>
+</resources>
